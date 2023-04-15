@@ -12,13 +12,13 @@ import {
 } from "./pages";
 
 const AppLayout = () => (
-  <>
+  <div className="flex flex-col min-h-screen">
     <TopBar />
     <NavBar />
     <hr className="border-1 border-gray-600" />
         <Outlet />
     <Footer />
-  </>
+  </div>
 );
 
 function App() {
