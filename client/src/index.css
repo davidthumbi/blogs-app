@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrapper-class {
+    border: 1px solid #ececec;
+    border-radius: 3px;
+}
+
+.editor-class {
+    background-color: white;
+    min-height: 100px;
+    border: 1px solid #ececec;
+    border-radius: 3px;
+}
+
+.toolbar-class {
+    border: 1px solid #ececec;
+}
