@@ -7,7 +7,7 @@ const BlogDetails = () => {
     <div className="bg-gray-900">
       <div className="px-64 pt-2">
         <img
-          src="https://images.pexels.com/photos/1013516/pexels-photo-1013516.jpeg?auto=compress&cs=tinysrgb&w=600"
+          src="https://images.hindustantimes.com/auto/img/2022/01/30/original/Rolls_Royce_Phantom_Orchid_1643515684972.jpg"
           alt="pic"
           className="w-full h-80 object-cover object-center"
         />
